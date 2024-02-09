@@ -1,0 +1,54 @@
+[
+  {
+    "name": "The '80s Guy - Darksynth Radio",
+    "url": "https://stream.nightride.fm/darksynth.ogg"
+  },
+  {
+    "name": "CVGM.net - Oldschool Video Game And Demoscene Music",
+    "url": "http://69.195.153.34:80/cvgm192"
+  },
+  {
+    "name": "EBSM - Electro Body Synth Music",
+    "url": "https://stream.nightride.fm/ebsm.ogg"
+  },
+  {
+    "name": "ChillSynth FM",
+    "url": "https://stream.chillsynth.fm/chillsynth.ogg"
+  },
+  {
+    "name": "Gamesboro Radio",
+    "url": "https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3"
+  },
+  {
+    "name": "HYPERADIO",
+    "url": "https://hyperadio.ru:8000/live2"
+  },
+  {
+    "name": "Pixel Vibes",
+    "url": "https://alxq.org:8000/undrgnd"
+  },
+  {
+    "name": "AStream",
+    "url": "https://astream.cf:9000/astream"
+  },
+  {
+    "name": "Label CANTROLL [HDR]",
+    "url": "https://harddanceradio.ddns.is74.ru:8000/labelcantroll"
+  },
+  {
+    "name": "24/7 Lofi Radio",
+    "url": "https://ec3.yesstreaming.net:3750/stream"
+  },
+  {
+    "name": "lofi420.com",
+    "url": "https://ec2.yesstreaming.net:4260/stream"
+  },
+  {
+    "name": "Yes",
+    "url": "https://ec6.yesstreaming.net:2240/stream"
+  },
+  {
+    "name": "Radio Rivendell",
+    "url": "https://play.radiorivendell.com/radio/8000/radio.mp3"
+  }
+]
